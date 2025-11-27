@@ -143,12 +143,4 @@ root.mainloop()
 
 
 
-#| Tkinter Component | Purpose           |
-#| ----------------- | ----------------- |
-#| Tk()            | Main window       |
-#| Toplevel()      | New sub-window    |
-#| Label           | Display text      |
-#| Entry           | Input box         |
-#| Button          | Buttons           |
-#| pack()          | Layout manager    |
-#| config()        | Update label text |
+
